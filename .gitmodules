@@ -1,0 +1,3 @@
+[submodule "CVResponsiveButton"]
+	path = CVResponsiveButton
+	url = git@github.com:Jusophos/CVResponsiveButton.git
